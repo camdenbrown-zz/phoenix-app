@@ -1,0 +1,4 @@
+<div class="jumbotron">
+  <button class="btn btn-danger">Turn Red</button>
+  <button class="btn btn-success">Turn Green</button>
+</div>
